@@ -148,3 +148,7 @@ bool_warehouse_plot = plt.figure(figsize=(16, 10))
 ax = plt.gca()
 warehouse_pc.plot(ax=ax)
 plt.show()
+
+
+
+print('hallo')

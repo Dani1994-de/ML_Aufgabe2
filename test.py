@@ -150,5 +150,3 @@ warehouse_pc.plot(ax=ax)
 plt.show()
 
 
-
-print('hallo')
